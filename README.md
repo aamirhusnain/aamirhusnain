@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aamir Husnain</h1>
 <h3 align="center">Sr.Software Engineer(Full-stack .NET Developer)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamirhusnain" alt="aamirhusnain" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamirhusnain" alt="aamirhusnain" /></a> </p> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
